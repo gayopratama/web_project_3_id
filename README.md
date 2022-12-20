@@ -1,21 +1,19 @@
-# Proyek 3: Dari Kampung Halaman ke Kampung Halaman
+# Proyek 3: Dari Tanah AIr ke Tanah Air
 
-### Gambaran umum
 
-- Pengantar
-- Figma
-- Gambar
+**Tentang Project**
 
-**Pengantar**
+Ini adalah proyek yang menampilkan kampung halaman beberapa karyawan Practicum dan kampung halaman saya. project ini di buat guna menyelesaikan tugas akhir dari modul pembelajaran spring 3.
 
-Ini adalah proyek yang menampilkan kampung halaman beberapa karyawan Practicum. Kita telah membuatnya sehingga semua elemen ditampilkan secara tepat di ukuran layar yang populer. Kami sarankan untuk meluangkan lebih banyak waktu dalam menyelesaikan proyek ini, karena ini lebih sulit daripada proyek yang sebelumnya.
+## Teknologi yang digunakan
+* HTML, CSS dan Figma
 
-**Figma**
+## Teknik yang digunakan
+1. Struktur File & Methodologi BEM
+2. Tag Semantik
+3. Grid Positioning
+4. Flexbox 
+5. Media Queri di layar yang popules
+6. Figma based design
 
-- [Tautkan ke proyek di Figma](https://www.figma.com/file/1zCYcflj6BJx5VqOvXU9nb/Sprint-3-From-Homeland-to-Homeland-desktop-mobile?node-id=0%3A1)
 
-**Gambar**
-
-Cara kamu melakukannya di tempat kerja adalah dengan mengekspor gambar langsung dari dari Figma — kami sarankan melakukan itu untuk berlatih lebih banyak. Jangan lupa untuk mengoptimalkannya [di sini] (https://tinypng.com/), sehingga proyek kamu dimuat lebih cepat.
-
-Semoga berhasil dan bersenang-senanglah!
