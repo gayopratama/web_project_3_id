@@ -1,0 +1,15 @@
+.place__link {
+    width: 304px;
+    height: 48px;
+    background-color:  #0278FE;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 22px;
+    display: flex;
+    justify-content: center;
+    align-items: center;    
+    border-radius: 4px;
+    color: #ffffff;
+    text-decoration: none;
+    margin-top: 40px;
+}

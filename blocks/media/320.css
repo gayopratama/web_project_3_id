@@ -1,0 +1,209 @@
+@media screen and (max-width: 320px) {
+    .page {
+     margin: 0 auto 0 auto;
+     width: 320px;
+     height: 9626px;
+    }
+ 
+    .logo {
+     width: 200px;
+     margin: 20px auto 0 auto;
+    }
+ 
+    .lead {
+     width: 288px;
+     height: 208px;
+    }
+ 
+    .lead__title {
+     margin: 50px auto 0 auto;
+     width: 288px;
+     height: 176px;
+     font-size: 50px;
+     line-height: 110%;
+    }
+ 
+    .lead__subtitle {
+     width: 288px;
+     height: 60px;
+     font-size: 16px;
+     line-height: 125%;
+    }
+ 
+    .lead__image {
+     margin: 20px auto 0 auto;
+     width: 320px;
+     height: 200px;
+    }
+ 
+    .intro {
+     margin: 284px auto 0 auto;
+     width: 304px;
+     height: 928px;
+     position: relative;
+    }
+   
+    .intro__title {
+     margin: 0 auto 0 auto;
+     width: 304px;
+     font-size: 32px;
+     line-height: 35px;
+     margin-bottom: -70px;
+    }
+ 
+    .intro__text {
+     margin: 0 auto 0 auto;
+     width: 288px;
+     font-size: 20px;
+     line-height: 30px;
+    }
+ 
+    .intro__text:last-of-type{
+     margin-top: 150px;
+     width: 288px;
+     font-size: 15px;
+     line-height: 163%;
+    }
+ 
+ 
+    .intro__citation {
+     font-size: 20px;
+     line-height: 34px;
+     position: absolute;
+     top: 400px;
+     right: 16px;
+    }
+ 
+    .photo-grid {
+     margin: 48px auto 0 auto;
+     display: flex;
+     flex-direction: column;
+     width: 288px;
+     height: 1812px;
+    }
+ 
+    .photo-grid__item {
+     width: 288px;
+     height: 216px;
+    }
+ 
+    .places{
+     width: 320px;
+     height: 5900px;
+     margin: 62px auto 0 auto;
+    }
+ 
+    .place {
+     margin: 40px auto 0px auto;
+     display: grid;
+     grid-template-areas: " title"
+     " url "
+     " artist "
+     " image "
+     " p1 "
+     " p2 "
+     " link ";
+     width: 320px;
+     height: 1144px;
+    }
+ 
+    .place__image {
+     width: 320px;
+     height: 320px;
+     grid-area: image;
+    }
+ 
+    .place__title {
+     margin: 30px auto 0px 16px;
+     width: 228px;
+     height: 35px;
+     font-size: 24px;
+     line-height: 35px;
+     grid-area: title;
+     margin-bottom: 30px;
+    }
+ 
+    .place__title_AS {
+     font-size: 24px;
+     line-height: 35px;
+     width: 288px;
+     height: 35px;
+    }
+ 
+    .place__url-heading {
+     margin: 0px auto 0 16px;
+     width: 288px;
+     font-size: 12px;
+     line-height: 15px;
+     /* identical to box height */
+     letter-spacing: 0.12em;
+     grid-area: url;
+    }
+ 
+ 
+     .place__artist {
+     margin: 8px auto 10px 16px;
+     width: 288px;
+     font-size: 18px;
+     line-height: 22px;
+     grid-area: artist;
+     }
+ 
+     .place__paragraph {
+         margin: 30px 16px 0px 16px;
+     width: 288px;
+     font-size: 15px;
+     line-height: 163%;
+     }
+ 
+    .place__paragraph:nth-child(1) {
+     grid-area: p1;
+    }
+ 
+    .place__paragraph:nth-child(2) {
+     grid-area: p2;
+    }
+ 
+ 
+    .place__link {
+     grid-area: link;
+     margin: 10px;
+     width: 288px;
+    }
+ 
+    .cover {
+     width: 320px;
+     height: 254px;
+     position: relative;
+     margin-top: 55px;
+    }
+ 
+    .cover__overlay {
+     width: 320px;
+     height: 254px;
+    }
+ 
+    .cover__title {
+     margin-top: 46px;
+     width: 288px;
+     height: 35px;
+     font-size: 32px;
+     line-height: 35px;
+    }
+ 
+    .cover__subtitle {
+     margin-top: 16px;
+     font-size: 14px;
+     line-height: 16px;
+    }
+ 
+    .cover__link {
+     position: absolute;
+     top: 130px;
+    }
+ 
+    .footer {
+     margin-top: 64px;
+    }
+ 
+ }

@@ -1,0 +1,9 @@
+.place {
+    width: 984px;
+    height: 756px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    margin-bottom: 80px;
+    position: relative;
+}

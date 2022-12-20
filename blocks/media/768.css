@@ -1,0 +1,129 @@
+@media screen and (max-width: 768px) {
+    
+    .page {
+        margin: 0 auto 0 auto;
+        width: 768px;
+
+    }
+
+    .lead {
+        width: 720px;
+        height: 484px;
+        margin: 90px auto 0 auto;
+    }
+
+    .lead__title {
+        width: 720px;
+        font-size: 120px;
+        height: 400px;
+    }
+
+    .lead__subtitle {
+        margin-top: 0px;
+    }
+
+    .lead__image {
+        margin: 40px auto 0 auto;
+        width: 768px;
+        height: 480px;
+        position: absolute;
+        left: 0px;
+    }
+
+    .intro {
+        width: 720px;
+        height: 600px;
+        margin: 600px auto 0px auto;
+        font-style: normal;
+        position: relative;
+    }
+
+    .intro__title {
+        width: 720px;
+        height: 232px;
+        margin-bottom: -30px;
+    }
+
+    .intro__text {
+        width: 720px;
+    }
+
+    .intro__citation {
+        position: absolute;
+        top: 337px;
+        right: 5px;
+    }
+
+    .photo-grid {
+        margin: 66px auto 0 auto;
+        width: 720px;
+        height: 1104px;
+        display: grid;
+        grid-auto-rows: repeat(4, 264x);
+        grid-template-columns: repeat(2, 352px);
+        grid-gap: 16px;
+    }
+
+    .photo-grid__item {
+        width: 352px;
+        height: 264px;
+    }
+
+    .cover {
+        width: 768px;
+    }
+
+    .cover__overlay{
+        width: 768px;
+    }
+    
+    .places {
+        width: 720px;
+    }
+
+    .place {
+        width: 720px;
+    }
+
+    .place__image {
+        width: 340px;
+        height: 340px;
+        margin-right: 28px;
+    }
+
+   .place__paragraph{
+        margin-top: 0px;
+        font-weight: 400;
+        font-size: 16.5px;
+        line-height: 163%;
+        width: 352px;
+    }
+
+    .place__title {
+        width: 340px;
+        height: 138px;
+        font-size: 42px;
+        line-height: 46px
+        /* or 110% */
+    }
+
+    .place__link {
+        margin-top: 61px;
+        margin-bottom: 190px;
+    }
+
+
+    .place__url-heading {
+        margin-top: 0px;
+    }
+
+
+    .place__artist {
+        width: 352px;
+    }
+
+    .footer {
+        margin-top: 88px;
+    }
+
+}

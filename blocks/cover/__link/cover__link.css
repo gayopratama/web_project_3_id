@@ -1,0 +1,14 @@
+.cover__link {
+    margin-top: 45px;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 22px;
+    text-decoration: none;
+    color: #ffff;
+    background-color: #0278FE;
+    width: 137px;
+    text-align: center;
+    padding-top: 13px;
+    padding-bottom: 10px;
+    border-radius: 4px;
+}

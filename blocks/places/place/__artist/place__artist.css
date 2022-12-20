@@ -1,0 +1,9 @@
+.place__artist {
+    margin-top: 8px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+/* or 122% */
+    width: 456px;
+    height: 44px;
+}

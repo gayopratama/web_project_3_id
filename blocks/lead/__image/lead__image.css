@@ -1,0 +1,6 @@
+.lead__image {
+    margin: 64px auto 0 auto;
+    width: 984px;
+    height: 615px;
+    filter: grayscale(1);
+}
