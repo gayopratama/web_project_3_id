@@ -59,7 +59,7 @@
         width: 720px;
         height: 1104px;
         display: grid;
-        grid-template-rows: repeat(4, 264x);
+        grid-template-rows: repeat(4, 264px);
         grid-template-columns: repeat(2, 352px);
         grid-gap: 16px;
     }
