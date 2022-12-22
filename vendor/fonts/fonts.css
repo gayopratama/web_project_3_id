@@ -11,8 +11,8 @@
   font-style:  normal;
   font-weight: 600;
   font-display: swap;
-  src: url("./inter-600.woff2") format("woff2"),
-       url("./inter-600.woff") format("woff");
+  src: url("../fonts/Inter-600.woff2") format("woff2"),
+       url("../fonts/Inter-600.woff") format("woff");
 }
 @font-face {
   font-family: 'Inter';
