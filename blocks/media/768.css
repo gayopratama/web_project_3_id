@@ -41,10 +41,11 @@
     .intro__title {
         width: 720px;
         height: 232px;
-        margin-bottom: -30px;
+        margin-bottom: 0px;
     }
 
     .intro__text {
+        margin-top: 0px;
         width: 720px;
     }
 
@@ -89,6 +90,8 @@
         width: 340px;
         height: 340px;
         margin-right: 28px;
+        margin-top: 0px;
+        
     }
 
    .place__paragraph{
@@ -103,13 +106,13 @@
         width: 340px;
         height: 138px;
         font-size: 42px;
-        line-height: 46px
-        /* or 110% */
+        line-height: 46px;
+        margin-bottom: 0px;
     }
 
     .place__link {
         margin-top: 61px;
-        margin-bottom: 190px;
+        margin-bottom: 150px;
     }
 
 
